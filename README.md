@@ -1,5 +1,5 @@
 # go-binary-size
-This repo is companion to an article published [here](https://gabnotes.org/posts/go-dependencies-and-binary-size).
+This repo is companion to an article published [here](https://gabnotes.fr/posts/go-dependencies-and-binary-size).
 
 Contents :
 * `app`: a Go module intended as an "application" (vs library) with 4 packages compilable as single binaries
